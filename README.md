@@ -7,4 +7,6 @@ Advantages:
 - Code example can be contextualised for quick reference
 - Power tools like [Mermaid](https://mermaid.js.org/syntax/flowchart.html) can assist with visualizing
 
-Disclaimer: This is just ONE way of taking note. 
+Disclaimer: This is just ONE way of taking note.
+
+Disclaimer #2: Screenshots are from [Scrimba](https://scrimba.com).
